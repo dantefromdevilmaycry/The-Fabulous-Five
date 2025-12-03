@@ -1,5 +1,6 @@
 ---
 title: Yipppeeee, the site is up
+cssclasses:
 ---
 
 :3
