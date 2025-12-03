@@ -1,0 +1,1 @@
+[[Kaelos]], [[Callisto]], and [[Bachoven]] band together while journeying together on [[The Caravan]] in the premiere session of this campaign.

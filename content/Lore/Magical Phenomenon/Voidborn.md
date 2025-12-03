@@ -1,0 +1,7 @@
+Voidborn are children born without a soul or spiritual essence, a defect immediately made apparent by their silence at birth. They are completely passive and have no sense of their own awareness, or of those around them. As such they are unable to take care of themselves or accept nourishment, eventually wasting away in the crib.
+
+The children born during the Legacy have received various names. In [[Valdadras]], they were called "buoys", as they were commonly drowned in the waters of the port, their bodies floating on the water until the tide took them.
+
+The voidborn phenomenon had been an issue long before the [[Voidborn Crisis]]. Although very rare in modern times, they were more common over 2000 years ago, before the Age of the Gods.
+
+Often thought to be a parting gift from [[Tir-Cendelius]] as revenge for his avatar's defeat and destruction at [[Mycarthia]], the first Voidborn was birthed less than a year after the end of [[The Saint's War]] in the 121st year of The [[Age of Peace]]. Among the first children affected were Dwarven, though the legacy eventually spread through most of [[Tamara]], from the Northern capital city of [[Mycarthia]], and as far south as [[The Gilded Vale]]. During the crisis, many Cendelian churches have been burned and their followers hunted down, while others wrongly blame mothers of the afflicted youths, and now increasingly, [[The Animancers]] thus far responsible for treating this [[Soul Malady]].

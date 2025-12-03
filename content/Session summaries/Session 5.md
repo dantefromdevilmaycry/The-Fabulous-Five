@@ -1,0 +1,1 @@
+[[Monarch Sugarbarr]] and [[Nya Lotep]] join the erstwhile party comprising of [[Kaelos]], [[Callisto]] and [[Bachoven]] in this session.

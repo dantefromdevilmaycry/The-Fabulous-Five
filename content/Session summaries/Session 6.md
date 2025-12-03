@@ -1,0 +1,1 @@
+[[Monarch Sugarbarr]], [[Kaelos]], [[Nya Lotep]] and [[Callisto]] head down the [[The Sewers under Copperlane]] in search of the [[Unnamed Devil]]. 

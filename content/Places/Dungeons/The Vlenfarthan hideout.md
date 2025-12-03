@@ -1,0 +1,2 @@
+#place
+This dungeon was encountered in [[Session 2]], and was an intricate cave system that [[The Vlenfarthans]] were using as a small settlement. The Vlenfarthans had trapped to prevent the party from finding shelter against the [[Bülwark]]

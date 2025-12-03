@@ -1,0 +1,1 @@
+[[Nya Lotep]], [[Kaelos]], [[Callisto]], and [[Bachoven]] investigate the brewing situation surrounding the [[The Sanitorium]] in [[Ondra's Grift]].
