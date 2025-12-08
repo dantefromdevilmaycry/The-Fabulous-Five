@@ -20,7 +20,5 @@ cssclasses:
 ###### 2. [[Giant Elks]]
 ###### 3. [[Wichts]]
 
-
-
-Items recently acquired and Identified
-[[Decanter of Endless Booze]]
+## Items recently acquired and Identified
+###### [[Decanter of Endless Booze]]
