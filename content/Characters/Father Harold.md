@@ -2,7 +2,7 @@ Race: Gnome
 Age: 92
 Class: ?
 
-Head archivist in the church of [[Zael]], found in [[Copperlane]], [[Valdadras]].
+Head archivist in the church of [[Zael]], The Library of Revealed Mysteries, found in [[Copperlane]], [[Valdadras]].
 
 Father Harold was approached by the party and engaged in a conversation regarding the vast lore of [[The Great Seas]], The [[Voidborn Crisis]], The [[Pantheon of Gods]], and other enlightening topics.
 
