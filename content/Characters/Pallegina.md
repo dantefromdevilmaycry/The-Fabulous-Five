@@ -2,7 +2,7 @@ Race: [[Godtouched]] Human
 Age: 29
 Class: Paladin
 
-Pallegina is a tall, [[Godtouched]] woman, working as a court diplomat for the City State of [[Isadora]], which lies at the southern edge of the continent of [[Antrok]]. Her physiology is partially morphed with that of a bird's, owing to her being touched by [[Hylia]], Patron Goddess of the Birds, Nature and Harvest.
+Pallegina is a tall, [[Godtouched]] woman, working as a court diplomat for the City State of [[Isadora]], which lies at the southern edge of the continent of [[Antrok]], being the capital of THE [[Isadoran Republics]]. Her physiology is partially morphed with that of a bird's, owing to her being touched by [[Hylia]], Patron Goddess of the Birds, Nature and Harvest.
 
 ![[Pallegina.webp|180]]
 

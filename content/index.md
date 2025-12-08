@@ -1,8 +1,26 @@
 ---
-title: Yipppeeee, the site is up
+title: Better name the campaign soon
 cssclasses:
 ---
+# Last Session's Summary - [[Session 7]]
 
-:3
 
-The front page is bare right now - maybe I'll design it to feature the most relevant few entries between sessions.
+## Developing, or Unfolding Events
+###### 1. [[The Animancy Protests]]
+###### 2. [[The Trial]]
+###### 3. [[Raedric's Murder]]
+
+## Factions currently engaged
+###### 1. [[The Leaden Key]]
+###### 2. [[The Disfavoured]]
+###### 3. [[The Animancers]]
+
+## Relevant Lore
+###### 1. [[Adra Crystal]]
+###### 2. [[Giant Elks]]
+###### 3. [[Wichts]]
+
+
+
+Items recently acquired and Identified
+[[Decanter of Endless Booze]]

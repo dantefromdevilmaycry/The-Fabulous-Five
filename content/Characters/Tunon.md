@@ -4,7 +4,7 @@ Class: X
 
 Tunon is a life sized, sentient stone statue of a young Half-Orc that resides in a foyer on the ground level of [[The Sanitorium]] in [[Valdadras]]. The statue's immediate vicinity was wreathed in overgrown foliage and he was never without the company of his pet deer.
 
-In life, Tunon was a prolific academic that founded an [[Animancy]] institute in Valdadras, and headed the Sanitorium in [[Ondra's Grift]]. He has a gentle demeanor and shows genuine concern for the wellbeing of people afflicted with [[Soul Malady]], having made it his life's mission to help people.
+In life, Tunon was a prolific academic that founded an [[Animancy]] institute in Valdadras, and headed the Sanitorium in [[Ondra's Grift]]. He has a gentle demeanor and shows genuine concern for the wellbeing of people afflicted with [[Soul Maladies]], having made it his life's mission to help people.
 
 He was died shortly after the end of [[The Saint's War]] and his gentle guidance was thought to be important enough to [[The Animancers]] that they installed his soul into a life-sized statue that retained his consciousness even in death, and allowed him to keep guiding future Animacers and serve as a symbol of hope.
 
@@ -18,9 +18,3 @@ Prior to the battle that broke out outside the Sanitorium during [[The Animancy 
 
 
 #character 
-[[Baldric]]
-[[Animancy]]
-[[Voidborn Crisis]]
-[[Wichts]]
-[[Ripley]]
-[[The Sanitorium]]

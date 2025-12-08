@@ -1,1 +1,5 @@
+Godtouched, or Godburnt can be born to any kith race in any part of [[The Great Seas]]. They are children of humanoids who have been "blessed" before birth (or cursed, depending on personal or social view) with the physical manifestation of a divine spark granted by the gods. Godlike manifest their divine heritage in a variety of ways: wings, horns, strange birthmarks, talons, odd eyes - but they always manifest it somehow. Though their appearance may vary, there's something unmistakably otherworldly about them. Godlike are viewed differently by the various factions, faiths, and cultures of the world. Sometimes, the reaction they get is overwhelmingly positive, such as in Lithalen among the indigenous fey. Many times, the reaction is overwhelmingly not.
+
+Godlikes cannot reproduce. In the [[Isadoran Republics]], godlike are legally considered to be without sex or gender regardless of how they appear or self-identify. Legal constructs that explicitly name (favorably or unfavorably) sexes or genders can cause problems for them.
+
 #lore

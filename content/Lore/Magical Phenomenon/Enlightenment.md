@@ -1,0 +1,1 @@
+A state of being considered by the worshippers of [[Tir-Cendelius]] to reveal the nature of Reality and Divinity to a mortal, making them one with the light.

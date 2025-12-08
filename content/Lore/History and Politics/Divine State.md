@@ -2,6 +2,5 @@ The Seven Divine States of [[The Great Seas]] are the seven large kingdoms that 
 
 - [[Tamara]]
 - [[Lithalen]]
-- [[Isadora]]
 
 #lore 
