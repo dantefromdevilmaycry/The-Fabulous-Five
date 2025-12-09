@@ -8,6 +8,6 @@ Mikhael is a animancer initiate, performing research under Baldric at [[The Sani
 
 Bachoven offers him some rum out of his [[Decanter of Endless Booze]], and sincere companionship. Mikhail mentions that he frequents a park in [[Ondra's Grift]], behind Harry's bookshop, and offers his name. 
 
-Later as the sanitorium catches fire, an unconscious Mikhail is rescued out of the building by the party.
+Later as the sanitarium catches fire, an unconscious Mikhail is rescued out of the building by the party.
 #character 
 

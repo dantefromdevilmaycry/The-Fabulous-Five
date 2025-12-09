@@ -15,11 +15,11 @@ The Animancers in [[Valdadras]] maintain several prominent institutions, key amo
 
 ### Relationship with other factions
 - [[The Disfavoured]] - Formally hired by the Court of Valdadras as protection for the animancers, their facilities, research and patients in response to [[The Animancy Protests]] picking up in anticipation of [[The Trial]]. They seemed to be involved in schemes beyond this duty however, with The Disfavoured receiving a supply of [[Adra Crystal]]s from the researchers at [[The Sanitarium]]
-- [[The Leaden Key]] - Actively rallying to get Animancy banned in Valdadras, and applying sabotage and conspiratorial plots to ensure their downfall; primary force behind [[The Animancy Protests]], responsible for escalation leading to the burning of the Sanitorium.
+- [[The Leaden Key]] - Actively rallying to get Animancy banned in Valdadras, and applying sabotage and conspiratorial plots to ensure their downfall; primary force behind [[The Animancy Protests]], responsible for escalation leading to the burning of the Sanitarium.
 
 ### Active situations
 - [[Gareth]]'s escape
-- Destruction of the Sanitorium
+- Destruction of the Sanitarium
 - The Trial
 
 ### Historical insight

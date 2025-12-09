@@ -7,4 +7,4 @@ During [[Session 7]], at dusk on the 83rd of [[Lightcall]], the protests centere
 
 [[Nya Lotep]], [[Kaelos]], [[Bachoven]], and [[Callisto]] intimately understand that [[Jagged Remedy]], and [[The Leaden Key]] at large are directly responsible for inciting violence at the protest in this instance.
 
-The present situation, as of [[Session 7]] sees the Sanitorium having taken extensive structural damage from Alchemist fire, and still burning.
+The present situation, as of [[Session 7]] sees the Sanitarium having taken extensive structural damage from Alchemist fire, and still burning.

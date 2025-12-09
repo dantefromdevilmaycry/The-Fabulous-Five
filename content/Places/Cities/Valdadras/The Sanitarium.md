@@ -4,7 +4,7 @@ As the suspicions waned, the sanitarium remained at the forefront of Animancy's 
 
 The staff of the sanitarium is working double time, not merely carrying out research, but also participating in the drawn-out hearings at [[The Trial]] being held at the Ducal Palace. 
 
-During [[The Animancy Protests]], as seen over the course of [[Session 7]], The Sanitorium became the subject of attempted arson, with dozens of flasks of Alchemist's fire being flung at it by protestors.
+During [[The Animancy Protests]], as seen over the course of [[Session 7]], The Sanitarium became the subject of attempted arson, with dozens of flasks of Alchemist's fire being flung at it by protestors.
 
 Currently, the Sanitarium employs - [[Baldric]], [[Mikhael]], [[Ripley]], and houses [[Tunon]]
 

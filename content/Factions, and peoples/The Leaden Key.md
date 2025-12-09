@@ -9,7 +9,7 @@ The Leaden key in [[Valdadras]] was seen operating covertly out of makeshift bas
 
 ### Relationship with other factions
 - [[The Animancers]]  - Actively rallying to get Animancy banned in Valdadras, and applying sabotage and conspiratorial plots to ensure their downfall; primary force behind [[The Animancy Protests]].
-- [[The Disfavoured]] - The Leaden Key coordinated the Arson leading to the burning of the Sanitorium. Consequently, their forces clashed in battle with the Disfavoured, leading to the death of [[Ashen Forge]] and several other knights of the Disfavoured.
+- [[The Disfavoured]] - The Leaden Key coordinated the Arson leading to the burning of the Sanitarium. Consequently, their forces clashed in battle with the Disfavoured, leading to the death of [[Ashen Forge]] and several other knights of the Disfavoured.
 
 ### Active situations
 - They seemingly have gained possession of [[Gareth]], a man being treated at [[The Sanitarium]] for being afflicted with an Awakening, one of the more acute [[Soul Maladies]]. [[Jagged Remedy]] claimed that Gareth possessed the soul of their immortal, prophetic leader - who after his awakening, was returning to their order after 250 years.
