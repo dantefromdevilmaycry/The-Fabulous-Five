@@ -2,7 +2,7 @@ Race: High Elf
 Age: 368
 Class: 
 
-A lord from the southern reaches of [[Tamara]], Lord Hammond intersects paths with the party in the town of [[The Gilded Vale]], during [[The Lockdown]] implemented by [[Lord Raedric]].
+A lord from the southern reaches of [[Avalon]], Lord Hammond intersects paths with the party in the town of [[The Gilded Vale]], during [[The Lockdown]] implemented by [[Lord Raedric]].
 
 Following [[the lockdown]], the party was anxious to secure passage out of the town, and learns that the only person in the town who could feasibly secure such passage for them, was lord Hammond. However, his help doesn't come readily - he enlists the party's help in locating his missing daughter, [[Medbeth]].
 

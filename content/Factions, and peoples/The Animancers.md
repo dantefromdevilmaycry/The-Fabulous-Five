@@ -1,11 +1,11 @@
 Academics, Wizards, sorcerers and other folk invested in the working of souls, and invested in the study and practice of [[Animancy]] are referred to as Animancers.
 
-Following [[The Saint's War]], the outbreak of the [[Voidborn Crisis]] ushered in a sudden demand for Animancers in [[Tamara]], with institutions seeing unabated funding and free-reign to fix the issue at hand by any means necessary. Animancers from all over [[The Great Seas]] congregated in [[Tamara]] in response to this call for humanitarian action and facilities amenable to extensive research.
+Following [[The Saint's War]], the outbreak of the [[Voidborn Crisis]] ushered in a sudden demand for Animancers in [[Avalon]], with institutions seeing unabated funding and free-reign to fix the issue at hand by any means necessary. Animancers from all over [[The Great Seas]] congregated in [[Avalon]] in response to this call for humanitarian action and facilities amenable to extensive research.
 
 
 # Valdadras
 
-The Animancers in [[Valdadras]] maintain several prominent institutions, key amongst them being [[The Sanitorium]].
+The Animancers in [[Valdadras]] maintain several prominent institutions, key amongst them being [[The Sanitarium]].
 
 ### Animacers in Valdadras:
 - [[Tunon]]
@@ -14,7 +14,7 @@ The Animancers in [[Valdadras]] maintain several prominent institutions, key amo
 - [[Mikhael]]
 
 ### Relationship with other factions
-- [[The Disfavoured]] - Formally hired by the Court of Valdadras as protection for the animancers, their facilities, research and patients in response to [[The Animancy Protests]] picking up in anticipation of [[The Trial]]. They seemed to be involved in schemes beyond this duty however, with The Disfavoured receiving a supply of [[Adra Crystal]]s from the researchers at [[The Sanitorium]]
+- [[The Disfavoured]] - Formally hired by the Court of Valdadras as protection for the animancers, their facilities, research and patients in response to [[The Animancy Protests]] picking up in anticipation of [[The Trial]]. They seemed to be involved in schemes beyond this duty however, with The Disfavoured receiving a supply of [[Adra Crystal]]s from the researchers at [[The Sanitarium]]
 - [[The Leaden Key]] - Actively rallying to get Animancy banned in Valdadras, and applying sabotage and conspiratorial plots to ensure their downfall; primary force behind [[The Animancy Protests]], responsible for escalation leading to the burning of the Sanitorium.
 
 ### Active situations

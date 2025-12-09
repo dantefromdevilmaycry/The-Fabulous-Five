@@ -2,7 +2,7 @@ Race: Human
 Age: 21
 Class: Wizard
 
-Ripley is one of [[The Animancers]] working at [[The Sanitorium]] as a researcher and directly involved with patient care and treatment. She's skilled with magic, and fast on her feet.
+Ripley is one of [[The Animancers]] working at [[The Sanitarium]] as a researcher and directly involved with patient care and treatment. She's skilled with magic, and fast on her feet.
 
 She falls in the party's orbit when they first interact with [[Tunon]], intercept her communications with [[Ashen Forge]] and start unravelling the happenings at her workplace.
 

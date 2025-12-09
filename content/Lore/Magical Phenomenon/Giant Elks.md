@@ -2,6 +2,6 @@
 
 [[Callisto]], [[Calisca]], [[Bachoven]], and [[Kaelos]] reluctantly engaged in combat with two Giant Elks in [[Session 1]], while journeying with [[The Caravan]]. The Elks were wounded and agitated.
 
-[[Kaelos]] and [[Nya Lotep]] dreamt of the wounded Elks later, in [[Session 7]], while staying in [[Valdadras]]. The same night, [[Callisto]] and [[Bachoven]] dreamt of these wounded elks finding their way to the basement of [[The Sanitorium]], and being healed by the touch of a young man who had his limbs bound with manacles.
+[[Kaelos]] and [[Nya Lotep]] dreamt of the wounded Elks later, in [[Session 7]], while staying in [[Valdadras]]. The same night, [[Callisto]] and [[Bachoven]] dreamt of these wounded elks finding their way to the basement of [[The Sanitarium]], and being healed by the touch of a young man who had his limbs bound with manacles.
 
 #lore 

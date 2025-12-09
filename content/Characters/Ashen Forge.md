@@ -11,6 +11,6 @@ It contained a firm reminder that [[The Animancers]] were running late in supply
 
 Subsequent confrontation with [[Ripley]] and [[Baldric]] reveals that The Disfavoured were using the crystals to imbue suits of armors with sentience, in order to bolster their numbers through undying constructs.
 
-On the 63rd of [[Lightcall]], during [[The Animancy Protests]], Ashen Forge was slain by [[Jagged Remedy]] shortly before his own death, while attempting to defend [[The Sanitorium]] from the violent protestors intent on burning it to the ground.
+On the 63rd of [[Lightcall]], during [[The Animancy Protests]], Ashen Forge was slain by [[Jagged Remedy]] shortly before his own death, while attempting to defend [[The Sanitarium]] from the violent protestors intent on burning it to the ground.
 
 #character

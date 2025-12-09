@@ -2,7 +2,7 @@ Race: Talking Statue (Half-Orc in life)
 Age: 120+
 Class: X
 
-Tunon is a life sized, sentient stone statue of a young Half-Orc that resides in a foyer on the ground level of [[The Sanitorium]] in [[Valdadras]]. The statue's immediate vicinity was wreathed in overgrown foliage and he was never without the company of his pet deer.
+Tunon is a life sized, sentient stone statue of a young Half-Orc that resides in a foyer on the ground level of [[The Sanitarium]] in [[Valdadras]]. The statue's immediate vicinity was wreathed in overgrown foliage and he was never without the company of his pet deer.
 
 In life, Tunon was a prolific academic that founded an [[Animancy]] institute in Valdadras, and headed the Sanitorium in [[Ondra's Grift]]. He has a gentle demeanor and shows genuine concern for the wellbeing of people afflicted with [[Soul Maladies]], having made it his life's mission to help people.
 

@@ -2,7 +2,7 @@ Race: Human
 Age: 45
 Class: Wizard
 
-Baldric is a proficient Wizard, one of the leaders of [[The Animancers]], and the head researcher at [[The Sanitorium]] over at [[Ondra's Grift]] in [[Valdadras]]. He has a small stature, wears elaborately intricate robes, and maintains a well shaved bald head.
+Baldric is a proficient Wizard, one of the leaders of [[The Animancers]], and the head researcher at [[The Sanitarium]] over at [[Ondra's Grift]] in [[Valdadras]]. He has a small stature, wears elaborately intricate robes, and maintains a well shaved bald head.
 
 In [[Session 7]], the party encounters Baldric in the basement of the Sanitorium, while investigating his work on behalf of [[Tunon]] and attempting to make sense of the dream that had come to them the night previous.
 
@@ -11,7 +11,7 @@ In [[Session 7]], the party encounters Baldric in the basement of the Sanitorium
 During the battle outside The Sanitorium, Baldric casted Blade Ward upon the entire region to contain everyone involved, and later casts Power Word Kill to dispose of a sorcerer that had unleashed a Gravity Sinkhole into the battlefield.
 
 
-He has a strained relationship with [[Tunon]], his predecessor, and is known to participate in radical procedures that may directly contribute to the image [[Animancy]] itself has gained, of being blasphemous to the natural order. The party was actively involved in investigating whether utilizing animal souls as a remedy to the [[Voidborn Crisis]] was Baldric's plan. (This is suspected to have caused the treated children to turn into [[Wichts]] upon reaching puberty, and has drawn all of [[Tamara]]'s ire)
+He has a strained relationship with [[Tunon]], his predecessor, and is known to participate in radical procedures that may directly contribute to the image [[Animancy]] itself has gained, of being blasphemous to the natural order. The party was actively involved in investigating whether utilizing animal souls as a remedy to the [[Voidborn Crisis]] was Baldric's plan. (This is suspected to have caused the treated children to turn into [[Wichts]] upon reaching puberty, and has drawn all of [[Avalon]]'s ire)
 
 
 #character

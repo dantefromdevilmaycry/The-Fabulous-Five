@@ -3,7 +3,7 @@ The third and final month of the year is Silvertide, where the skies converge to
 
 It is 70 days long, same as the other two Seasons; comprising of ten weeks.
 
-After Silvertide each year, there is a 20 day-period of celebration known as the Harmony of Fields among the plain-dwellers of Tamara, and by several other names among the cultures of the Great Seas. The people hunt, forage and feast through all their supplies for the Silvertide past, and anticipate a bountiful New Year.
+After Silvertide each year, there is a 20 day-period of celebration known as the Harmony of Fields among the plain-dwellers of [[Avalon]], and by several other names among the cultures of the Great Seas. The people hunt, forage and feast through all their supplies for the Silvertide past, and anticipate a bountiful New Year.
 
 The year as a whole, then, comprises of 230 days.
 
